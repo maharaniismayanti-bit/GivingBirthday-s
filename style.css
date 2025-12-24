@@ -510,7 +510,8 @@ body {
      ===================== */
   .third-section {
     min-height: auto;
-    padding: 40px 0;
+    padding: 80px;
+    margin-top: 100px;
   }
 
   .mySwiper {
@@ -518,8 +519,8 @@ body {
   }
 
   .swiper-slide {
-    width: 260px;
-    height: 300px;
+    width: 350px;
+    height: 250px;
   }
 
   .info small {
@@ -572,6 +573,7 @@ body {
     font-size: 0.95rem;
   }
 }
+
 
 
 
