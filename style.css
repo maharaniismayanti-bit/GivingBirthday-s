@@ -429,7 +429,7 @@ body {
   letter-spacing: 1.5px;
 }
 
-@media (min-width: 480px) and (max-width: 767px) {
+@media (max-width: 768px) {
   body {
     overflow-x: hidden;
   }
@@ -561,3 +561,4 @@ body {
     font-size: 1rem;
   }
 }
+
