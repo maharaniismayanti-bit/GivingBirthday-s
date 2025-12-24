@@ -470,13 +470,13 @@ body {
   }
 
   .content h1 {
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     line-height: 1.3;
     letter-spacing: 0.25rem;
   }
 
   .content button {
-    font-size: 0.75rem;
+    font-size: 0.9rem;
     padding: 10px 16px;
     margin-top: 12px;
   }
@@ -511,7 +511,7 @@ body {
   .third-section {
     min-height: auto;
     padding: 80px;
-    margin-top: 500px;
+    margin-top: 50px;
   }
 
   .mySwiper {
@@ -573,6 +573,7 @@ body {
     font-size: 0.95rem;
   }
 }
+
 
 
 
