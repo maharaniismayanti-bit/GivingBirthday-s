@@ -499,6 +499,7 @@ body {
      ===================== */
   .galaxy-section {
     min-height: 90vh;
+    padding-bottom: 120px;
   }
 
   .galaxy-bg-video {
@@ -509,7 +510,7 @@ body {
      SWIPER
      ===================== */
   .third-section {
-    margin-top: 100px;
+    margin-top: 500px;
     min-height: auto;
     padding: 40px 0;
   }
@@ -573,6 +574,7 @@ body {
      font-size: 0.95rem;
    }
   }
+
 
 
 
