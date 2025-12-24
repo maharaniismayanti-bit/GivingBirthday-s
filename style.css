@@ -470,7 +470,7 @@ body {
   }
 
   .content h1 {
-    font-size: 1rem;
+    font-size: 0.92rem;
     line-height: 1.3;
     letter-spacing: 0.25rem;
   }
@@ -510,18 +510,18 @@ body {
      SWIPER
      ===================== */
   .third-section {
-    margin-top: 200px;
+    margin-top: 90px;
     min-height: auto;
-    padding: 60px 0;
+    padding: 40px 0;
   }
 
   .mySwiper {
-    padding: 60px 0 80px;
+    padding: 20px 0 40px;
   }
 
   .swiper-slide {
-    width: 360px;
-    height: 460px;
+    width: 260px;
+    height: 300px;
   }
 
   .info small {
@@ -574,6 +574,7 @@ body {
      font-size: 0.95rem;
    }
   }
+
 
 
 
